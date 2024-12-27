@@ -20,6 +20,7 @@
 #ifndef linereader_h
 #define linereader_h
 
+#include <cstdint>
 #include <iterator>
 #include <iostream>
 #include <list>

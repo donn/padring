@@ -20,6 +20,7 @@
 #ifndef logging_h
 #define logging_h
 
+#include <cstdint>
 #include <string>
 
 typedef enum {LOG_VERBOSE = 1, LOG_DEBUG = 2, LOG_INFO = 3, LOG_WARN = 4, 
