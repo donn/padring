@@ -17,6 +17,7 @@
     
 */
 
+#include <cstdint>
 #include "lefreader.h"
 
 bool LEFReader::isWhitespace(char c) const
